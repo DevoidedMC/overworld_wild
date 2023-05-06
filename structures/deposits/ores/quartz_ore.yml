@@ -1,0 +1,10 @@
+id: QUARTZ_ORE
+type: ORE
+extends: ABSTRACT_ORE
+
+material: minecraft:note_block[instrument=banjo,note=1,powered=false]
+
+material-overrides:
+  minecraft:deepslate: minecraft:note_block[instrument=banjo,note=2,powered=false]
+
+size: 9

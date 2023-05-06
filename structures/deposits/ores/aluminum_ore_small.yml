@@ -1,0 +1,5 @@
+id: ALUMINUM_ORE_SMALL
+type: ORE
+extends: ALUMINUM_ORE
+
+size: 4

@@ -127,6 +127,27 @@ emerald:
     min: -16
     max: 480
 
+quartz:
+  averageCountPerChunk: 7
+  salt: 5786
+  range:
+    min: 8
+    max: 64
+
+quartz-uniform:
+  averageCountPerChunk: 7
+  salt: 1374
+  range:
+    min: -32
+    max: 104
+
+aluminum:
+  averageCountPerChunk: 18
+  salt: 3887
+  range:
+    min: -176
+    max: 48
+
 # ---
 # Deposits
 # ---

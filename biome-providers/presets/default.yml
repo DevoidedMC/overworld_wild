@@ -2,7 +2,7 @@ biomes:
   type: EXTRUSION
   extrusions:
     - << biome-providers/extrusions/add_cave_biomes.yml:extrusions
-    - << biome-providers/extrusions/add_deep_dark.yml:extrusions
+    #- << biome-providers/extrusions/add_deep_dark.yml:extrusions
   provider:
     type: PIPELINE
     resolution: 2
@@ -50,7 +50,7 @@ biomes:
         # ---
         # Add mushroom islands
         # - Comment the following line to disable mushroom island generation
-        - << biome-providers/stages/add_mushroom_islands.yml:stages
+        #- << biome-providers/stages/add_mushroom_islands.yml:stages
         # ---
   
         # ---

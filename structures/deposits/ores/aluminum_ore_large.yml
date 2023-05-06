@@ -1,0 +1,5 @@
+id: ALUMINUM_ORE_LARGE
+type: ORE
+extends: ALUMINUM_ORE
+
+size: 12
